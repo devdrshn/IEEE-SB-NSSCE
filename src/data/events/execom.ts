@@ -157,6 +157,35 @@ export const execomEvents: Event[] = [
     { time: "26 June 2026", title: "CircuitCraft Day-01", description: "Introduction to circuit simulation." },
     { time: "27 June 2026", title: "CircuitCraft Day-02", description: "Deep dive into LTspice." }
   ]
-}
+  },
+  {
+  id: "execom-e7",
+  slug: "IEEE-Membership-Drive",
+  title: "IEEE MEMBERSHIP DRIVE SESSION",
+  description: "Interested in unlocking global opportunities, boosting your professional network, and elevating your technical journey? Here's your chance to discover what IEEE has to offer! As part of our upcoming initiatives, IEEE MDC brings you an exclusive Membership Drive Session , designed to help students explore the benefits of IEEE, foster professional growth, and guide you on how to make the most of your IEEE student membership.",
+  date: "2026-07-27T10:00:00Z",
+  time: "4:15 pm - 5:15 pm",
+  venue: "E ONE Hall, NSSCE",
+  societyId: "execom",
+  status: "upcoming",
+  banner: "https://sb-dataset.vercel.app/events/execom/e7/membershipdrive.jpeg",
+  tags: ["IEEE", "Membership", "Session", "Professional Growth"],
+  registrationUrl: "https://forms.gle/Q9ah5NPPxo5Rkfda6",
+  contacts: [
+    { name: "Sooryadev P", phone: "+91 8075234427" },
+    { name: "Agnes Jose", phone: "+91 8138833589" }
+  ],
+  gallery: [
+    "https://sb-dataset.vercel.app/events/execom/e7/membershipdrive.jpeg",
+  ],
+  speakers: [
+    {
+      name: "Dr. Vijitha S",
+      designation: "Branch Counselor, IEEE SB NSSCE",
+      bio: "",
+      photo: "https://sb-dataset.vercel.app/team/2026/SB/Vijitha.jpg"
+    }
+  ]
+  }
 
 ];
