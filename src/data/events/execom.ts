@@ -167,7 +167,7 @@ export const execomEvents: Event[] = [
   time: "4:15 pm - 5:15 pm",
   venue: "E ONE Hall, NSSCE",
   societyId: "execom",
-  status: "upcoming",
+  status: "past",
   banner: "https://sb-dataset.vercel.app/events/execom/e7/membershipdrive.jpeg",
   tags: ["IEEE", "Membership", "Session", "Professional Growth"],
   registrationUrl: "https://forms.gle/Q9ah5NPPxo5Rkfda6",
