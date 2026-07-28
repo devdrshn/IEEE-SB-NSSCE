@@ -21,5 +21,35 @@ export const iasEvents: Event[] = [
     gallery: [
       "https://sb-dataset.vercel.app/events/ias/e1/1.jpg"
     ]
+  },
+  {
+    id: "ias-e2",
+    slug: "portfolio-building",
+    title: "Online Session on Portfolio Building",
+    description: "IEEE IAS SBC NSSCE brings an exclusive online talk session on Portfolio Building, covering the importance of a portfolio, writing good content and design principles, a basic web development overview, GitHub maintenance and free hosting, and SEO basics — designed to help you stand out to recruiters and build a strong online presence.",
+    date: "2026-07-31T09:00:00Z",
+    time: "7:00–8:00 PM",
+    venue: "Google Meet",
+    price: "Free",
+    societyId: "ias",
+    status: "upcoming",
+    registrationUrl: "https://forms.gle/AxDij47CA2MZQy276",
+    banner: "https://sb-dataset.vercel.app/events/ias/e2/1.jpg",
+    tags: ["Talk Session", "Career", "Portfolio"],
+    gallery: [
+      "https://sb-dataset.vercel.app/events/ias/e2/1.jpg"
+    ],
+    contacts: [
+      { name: "Nakul Sarath", phone: "+919746402356" },
+      { name: "Ameena Musthafa", phone: "+919605732370" }
+    ],
+    speakers: [
+      {
+        name: "Arjun K",
+        designation: "S5 CSE, Webmaster – IEEE CS Kerala Section",
+        bio: "Arjun K is a fifth-semester CSE student and the Webmaster of IEEE CS Kerala Section.",
+        photo: "https://sb-dataset.vercel.app/team/2026/CS/Arjun.jpg"
+      }
+    ]
   }
 ];
